@@ -7,7 +7,6 @@ BORDER_WIDTH = 3
 BORDER_HEIGHT = 40
 SPACE_HEIGHT = BORDER_HEIGHT / 8
 
-
 BACKGROUND = "black" #Change the color of the background.
 BORDER = "white" #Change the color of border in middle of the screen.
 
